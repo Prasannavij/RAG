@@ -1,0 +1,6 @@
+ollama
+chromadb
+pymupdf
+sentence-transformers
+numpy
+python-dotenv
